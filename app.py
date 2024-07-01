@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly_express as px
 
-df = pd.read_csv(r'C:\Users\abdoh\project_clone\sprint4_repo\cleaned_vehicles_us.csv')
+df = pd.read_csv('cleaned_vehicles_us.csv')
 
 st.header('Vehicles Dashboard')
 

@@ -56,3 +56,6 @@ This project is a web application dashboard built using **Streamlit**, **Pandas*
 ### Using the Web Application
 
 - Navigate through different sections of the dashboard to explore various data visualizations.
+
+
+Hello, thank you for the feedback! I updated my cylinders column using the transform method. I tried applying the same logic to odometer and model year but I just don't have the vision to see how I can apply a more relevant way of handling the missing values so if you can help me with that to, it would be great (assuming transform can be applied opposed to what I did). Thank you! And the render website should be working now.

@@ -1,6 +1,9 @@
 import pandas as pd
 import streamlit as st
 import plotly_express as px
+#import os 
+
+#print(os.getcwd())
 
 df = pd.read_csv(r'C:\Users\abdoh\project_clone\sprint4_repo\cleaned_vehicles_us.csv')
 

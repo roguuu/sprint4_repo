@@ -5,7 +5,7 @@ import plotly_express as px
 
 #print(os.getcwd())
 
-df = pd.read_csv(r'C:\Users\abdoh\project_clone\sprint4_repo\cleaned_vehicles_us.csv')
+df = pd.read_csv('sprint4_repo/cleaned_vehicles_us.csv')
 
 st.header('Vehicles Dashboard')
 
